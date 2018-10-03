@@ -1,0 +1,22 @@
+README
+======
+
+Languages
+---------
+Python 3
+
+Libraries
+---------
+This metrifier uses both the NLTK and CLTK python libraries, both of which can be installed using pip.
+The code also uses a modified copy of CLTK's scanner which represses logger output, which would otherwise be overwhelming due to some sort of bug in the original code.
+
+Other Tools
+-----------
+Johan Winge's macronizer is highly recommended for users who do not wish to macronize their input by hand.
+http://stp.lingfil.uu.se/~winge/macronizer/index.py
+
+Running the Code
+----------------
+To run the code, run main.py and follow the command-line prompts that appear.
+By default, the program is set to use the included corpus "hendecasyllabics.txt", 530 lines of machine-macronized hendecasyllabic meter from Catullus, whenever a corpus is required.  However, you may enter an alternative text file if you prefer.
+All of the code's functions expect macronized input, and will attempt to match it to hendecasyllabic meter.
