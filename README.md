@@ -1,10 +1,10 @@
 # Converting Latin Prose to Poetry
 
-The Latin language has two features that make its poetry distinct.  
+The Latin language has two features that make its poetry distinct:
 
-First, Latin has formal rules for determining whether a syllable is long or short, and Latin poetry always follows specific patterns, or meters, of long and short syllables.  
+* First, Latin has formal rules for determining whether a syllable is long or short, and Latin poetry always follows specific patterns, or meters, of long and short syllables.  
 
-Second, Latin encodes most of the information that English conveys through word position into the words themselves.  This means that it is often possible to rearrange the order of words a Latin sentence completely without changing the meaning.
+* Second, Latin encodes most of the information that English conveys through word position into the words themselves.  This means that it is often possible to rearrange the order of words a Latin sentence completely without changing the meaning.
 
 Together, these facts mean that it is sometimes possible to turn Latin prose into poetry simply by rearranging the words in each sentence to fit a meter.  This simple "metrifier" is limited in scope, but it serves as an effective proof-of-concept that this can be done algorithmically.
 
