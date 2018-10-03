@@ -1,5 +1,7 @@
 # Converting Latin Prose to Poetry
 
+## Introduction
+
 The Latin language has two features that make its poetry distinct:
 
 * First, Latin has formal rules for determining whether a syllable is long or short, and Latin poetry always follows specific patterns, or meters, of long and short syllables.  
